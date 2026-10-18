@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "0.7.0",
+  "platform": "windows-x86",
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.7.0/RoHelper-0.7.0-portable.zip",
+  "sha256": "850fd982ec553dfb4bed91265981fb9083f87f4e67969cff48727dc26c6aedb1",
+  "size": 2112576,
+  "notes": "RoHelper 0.7.0\n\nApp updater: check stable releases in Settings, download verified packages, then Install & restart. Updates preserve accounts, protected sessions, inventories and settings. Failed installations restore the previous app and reopen it. App updates install only when you choose. Game catalogs continue to update separately.\n"
+}
