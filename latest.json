@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.7.0",
+  "version": "0.7.2",
   "platform": "windows-x86",
-  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.7.0/RoHelper-0.7.0-portable.zip",
-  "sha256": "850fd982ec553dfb4bed91265981fb9083f87f4e67969cff48727dc26c6aedb1",
-  "size": 2112576,
-  "notes": "RoHelper 0.7.0\n\nApp updater: check stable releases in Settings, download verified packages, then Install & restart. Updates preserve accounts, protected sessions, inventories and settings. Failed installations restore the previous app and reopen it. App updates install only when you choose. Game catalogs continue to update separately.\n"
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.7.2/RoHelper-0.7.2-portable.zip",
+  "sha256": "6b70109c4979eeecd764b61d08886bd14a3e4852d0f576d268ff7feebb504761",
+  "size": 2104047,
+  "notes": "RoHelper 0.7.2\n\nKeyboard and mouse macros in visual and Lua editors.\nLeft/right/double-click, mouse holds, and no-argument mouse_release().\nNine origins in a 3x3 dropdown with signed pixel offsets.\nEach action recalculates against the current Roblox client area after resizing.\nStop, pause and completion release held mouse buttons.\nSaved data stays in Local AppData; no migration.\n"
 }

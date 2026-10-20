@@ -1,0 +1,2 @@
+6b70109c4979eeecd764b61d08886bd14a3e4852d0f576d268ff7feebb504761  RoHelper-0.7.2-portable.zip
+28bf49d176fe23acbf1bfcc2c6b481711e0ca30387fba2d8bf58dce56813af80  RoHelper-0.7.2-source.zip
