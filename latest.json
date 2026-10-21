@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.8.0",
+  "version": "0.8.1",
   "platform": "windows-x86",
-  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.8.0/RoHelper-0.8.0-portable.zip",
-  "sha256": "cd3853254c3574f0e44f40ecd941476b946520cf69a07a20c954bd6855edabcc",
-  "size": 2136094,
-  "notes": "RoHelper 0.8.0\n\nExport and import individual macros as JSON files or compressed RHM1 share codes.\nCodes preserve Lua and visual blocks with checksums and bounded decoding.\nReview imports before saving; fresh IDs prevent overwriting existing macros.\nRecord keyboard and mouse input from one selected Roblox client, with F8 to stop.\nMouse recording uses the selected 3x3 origin and current client dimensions at each event.\nEditable mouse movement supports recorded drags; holds and timing are preserved.\nRecording stays in memory until saved. Account data remains in Local AppData.\n"
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.8.1/RoHelper-0.8.1-portable.zip",
+  "sha256": "1d62036eb80c85001c8beb7c2fd43aaa9091005df524e127c35b1fae687d99d7",
+  "size": 2133035,
+  "notes": "security fixes"
 }
