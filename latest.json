@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.9.1",
+  "version": "0.9.3",
   "platform": "windows-x86",
-  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.9.1/RoHelper-0.9.1-portable.zip",
-  "sha256": "cb7ff472c7d43e2f24339da6fdde05558eef9524b432e0642276895c41e5df08",
-  "size": 2169379,
-  "notes": "RoHelper 0.9.1\n\nAdd optional connected email, phone number and other recovery contacts in Edit account, below Nickname.\nContacts are saved per account in AppData and stay off account cards, search and session exports.\nExisting logins, inventories and account settings are preserved."
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.9.3/RoHelper-0.9.3-portable.zip",
+  "sha256": "ab7833a6e22ae031a101899d4704927f1fcc036cffc2b7dff3894b5b93e11f57",
+  "size": 2170984,
+  "notes": "RoHelper 0.9.3\n\nLaunch all listed logged-in accounts sequentially in account order, waiting for each Roblox window before starting the next.\nSearch and tag filters limit the batch; running accounts and accounts without a saved login are skipped.\nThe selected destination stays fixed for the batch. Stop queue leaves the current launch and existing clients alone.\nShow launch progress and per-account failures. Saved account data is preserved."
 }
