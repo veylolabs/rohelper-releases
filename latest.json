@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.8.1",
+  "version": "0.9.0",
   "platform": "windows-x86",
-  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.8.1/RoHelper-0.8.1-portable.zip",
-  "sha256": "1d62036eb80c85001c8beb7c2fd43aaa9091005df524e127c35b1fae687d99d7",
-  "size": 2133035,
-  "notes": "security fixes"
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.9.0/RoHelper-0.9.0-portable.zip",
+  "sha256": "8ee172e29c6bf12cdd0f992ca8b1f547f91d20465842ea5ce941dbc3dab0d7ef",
+  "size": 2167979,
+  "notes": "RoHelper 0.9.0\n\nExport all or selected saved account sessions to a local file.\nBulk-import session files or pasted batches with verified Roblox identities and a review before saving.\nDetect repeated sessions and duplicate Roblox account IDs; keep existing saved logins unless replacement is selected.\nPreserve inventories, progress, tags and account customization, with protected rollback/recovery for import saves.\nSource snapshots are hosted separately in rohelper-source."
 }

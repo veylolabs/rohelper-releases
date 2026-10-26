@@ -10,4 +10,4 @@ RoHelper 0.7.0 and newer can check, download, verify and install stable app upda
 
 Game content updates separately from [rohelper-game-data](https://github.com/veylolabs/rohelper-game-data). Updating the app does not migrate or replace user data.
 
-RoHelper is GPL-3.0. Each release includes its matching source archive and dependency notices. Artwork rights remain with the respective creators.
+RoHelper is GPL-3.0. Matching source snapshots are hosted separately in [rohelper-source](https://github.com/veylolabs/rohelper-source); each app release includes a SOURCE.txt download pointer. Dependency notices remain included in the app. Artwork rights remain with the respective creators.
