@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "platform": "windows-x86",
-  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v1.0.0/RoHelper-1.0.0-portable.zip",
-  "sha256": "ea1624c0bacc38625f854f9364d236379c0a5c472967938e357d3287b4690896",
-  "size": 2230086,
-  "notes": "RoHelper 1.0.0\n\nActivity: combined account runtime, real-world uptime graphs, concurrency and resource charts, account leaderboards, activity calendar, daily goals, personal records and saved session summaries.\nCompact client health: session timer and last anti-AFK input, with expandable automation and CPU/RAM/GPU details.\n53 cached, data-driven achievements with milestone progress, XP and a trophy shelf. Definitions update through the public game-data repository; unlocks and statistics stay local in AppData.\nSleep and unobserved time are excluded. Matching sessions resume across app restarts without adding offline time. Existing account data is preserved."
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v1.0.1/RoHelper-1.0.1-portable.zip",
+  "sha256": "3af9e323866a4e27c961f9e4f7db40c08cabdea678c119acf2df9bd47b94a14c",
+  "size": 2246352,
+  "notes": "RoHelper 1.0.1\n\nEvents and timers across all nine supported games: 26 event references and 38 shared timer presets, updated through GitHub.\nAccount-specific cooldowns, server timers, shared spawn/restock clocks, pause/resume, notifications and saved playtime timers. Unknown schedules remain clearly marked; community timings include their sources.\nAdd-account option descriptions now appear below their titles.\nIncludes the expanded 153-achievement catalog. Existing accounts, inventories, achievements and personal timers stay in local AppData."
 }

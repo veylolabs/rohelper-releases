@@ -1,1 +1,1 @@
-ea1624c0bacc38625f854f9364d236379c0a5c472967938e357d3287b4690896  RoHelper-1.0.0-portable.zip
+3af9e323866a4e27c961f9e4f7db40c08cabdea678c119acf2df9bd47b94a14c  RoHelper-1.0.1-portable.zip
