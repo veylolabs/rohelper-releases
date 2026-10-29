@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.9.3",
+  "version": "0.9.4",
   "platform": "windows-x86",
-  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.9.3/RoHelper-0.9.3-portable.zip",
-  "sha256": "ab7833a6e22ae031a101899d4704927f1fcc036cffc2b7dff3894b5b93e11f57",
-  "size": 2170984,
-  "notes": "RoHelper 0.9.3\n\nLaunch all listed logged-in accounts sequentially in account order, waiting for each Roblox window before starting the next.\nSearch and tag filters limit the batch; running accounts and accounts without a saved login are skipped.\nThe selected destination stays fixed for the batch. Stop queue leaves the current launch and existing clients alone.\nShow launch progress and per-account failures. Saved account data is preserved."
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.9.4/RoHelper-0.9.4-portable.zip",
+  "sha256": "f5a9c5f657f5661c10744daba895e380d667327b4272990af561444616737c35",
+  "size": 2173981,
+  "notes": "RoHelper 0.9.4\n\nFix multi-client anti-AFK scheduling so busy clients cannot repeatedly take the first turn.\nDistinguish RoHelper input from real PC activity to prevent false pauses.\nImprove focus handoff and allow queued key releases to settle before changing windows.\nRetry temporary input failures in simple anti-AFK and show the time since the last sent input.\nSaved accounts, settings and inventories are unchanged."
 }
