@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.9.4",
+  "version": "1.0.0",
   "platform": "windows-x86",
-  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v0.9.4/RoHelper-0.9.4-portable.zip",
-  "sha256": "f5a9c5f657f5661c10744daba895e380d667327b4272990af561444616737c35",
-  "size": 2173981,
-  "notes": "RoHelper 0.9.4\n\nFix multi-client anti-AFK scheduling so busy clients cannot repeatedly take the first turn.\nDistinguish RoHelper input from real PC activity to prevent false pauses.\nImprove focus handoff and allow queued key releases to settle before changing windows.\nRetry temporary input failures in simple anti-AFK and show the time since the last sent input.\nSaved accounts, settings and inventories are unchanged."
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v1.0.0/RoHelper-1.0.0-portable.zip",
+  "sha256": "ea1624c0bacc38625f854f9364d236379c0a5c472967938e357d3287b4690896",
+  "size": 2230086,
+  "notes": "RoHelper 1.0.0\n\nActivity: combined account runtime, real-world uptime graphs, concurrency and resource charts, account leaderboards, activity calendar, daily goals, personal records and saved session summaries.\nCompact client health: session timer and last anti-AFK input, with expandable automation and CPU/RAM/GPU details.\n53 cached, data-driven achievements with milestone progress, XP and a trophy shelf. Definitions update through the public game-data repository; unlocks and statistics stay local in AppData.\nSleep and unobserved time are excluded. Matching sessions resume across app restarts without adding offline time. Existing account data is preserved."
 }
