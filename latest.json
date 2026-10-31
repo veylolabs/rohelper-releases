@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "platform": "windows-x86",
-  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v1.0.1/RoHelper-1.0.1-portable.zip",
-  "sha256": "3af9e323866a4e27c961f9e4f7db40c08cabdea678c119acf2df9bd47b94a14c",
-  "size": 2246352,
-  "notes": "RoHelper 1.0.1\n\nEvents and timers across all nine supported games: 26 event references and 38 shared timer presets, updated through GitHub.\nAccount-specific cooldowns, server timers, shared spawn/restock clocks, pause/resume, notifications and saved playtime timers. Unknown schedules remain clearly marked; community timings include their sources.\nAdd-account option descriptions now appear below their titles.\nIncludes the expanded 153-achievement catalog. Existing accounts, inventories, achievements and personal timers stay in local AppData."
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v1.0.2/RoHelper-1.0.2-portable.zip",
+  "sha256": "1474b8f7eaa6f6b0b26c89a146971fdc21c1dce6e169e953270d8c2f81fed68c",
+  "size": 3102154,
+  "notes": "RoHelper 1.0.2\n\nLumber Tycoon 2: 263 catalog entries with LT2Tracker images, category tabs, original prices, wood and axe facts, and seasonal collections.\nPer-account Owned checklists with one-click checks, Owned/Missing filters, search, progress and Undo. No inventory copies or quantities.\nHalloween 2026 and End Times references, travel/quest guides, and manual ferry and bridge timers. Unknown or conflicting source facts stay unconfirmed.\nCatalog data and artwork update through GitHub and remain available offline. Accounts, owned checks and all existing progress stay in local AppData."
 }
