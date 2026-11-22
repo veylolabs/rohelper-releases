@@ -1,4 +1,4 @@
-Corresponding source for RoHelper 1.0.2
+Corresponding source for RoHelper 1.1.0
 GPL-3.0; source is hosted separately from application downloads.
-https://github.com/veylolabs/rohelper-source/raw/refs/heads/main/RoHelper-1.0.2-source.zip
-SHA-256: 5bd28bec5a0e4ddd71d6cf545ffaed4492b5746cb11096918e97880c0f27a6a7
+https://github.com/veylolabs/rohelper-source/raw/refs/heads/main/RoHelper-1.1.0-source.zip
+SHA-256: 4f9d44f22d4f34304d89290c80e2a6b930d562e94c6c2fcb458353003856f22f
