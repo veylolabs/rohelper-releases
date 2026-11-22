@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.0",
+  "version": "1.1.1",
   "platform": "windows-x86",
-  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v1.1.0/RoHelper-1.1.0-portable.zip",
-  "sha256": "59e666223aff989ff2ab9ccede3738a0a77a9652c57897db210fcfd50b0678e1",
-  "size": 3215042,
-  "notes": "Admin Abuse watcher and global keybinds\n\n- Enable announcement OCR independently for each Roblox window, with local logs of all captured messages.\n- Track multipart codes, explicit context and limited rule-based riddles; filter polls and control code rounds manually.\n- Calibrate the code menu and test GAARAAMAA504 with one submission and refill. Input is serialized, resize-aware and cancelled on focus loss.\n- Customize global shortcuts in Settings, including Ctrl+Alt+F24, for watcher controls, account launch/focus and automation.\n- Includes the 1.0.3 client-discovery change that removes intrusive system-handle scanning. Live timeout verification remains pending.\n\nAccounts, inventories and statistics remain in Local AppData. OCR and redemption need in-game verification; unknown riddles are not guessed."
+  "url": "https://github.com/veylolabs/rohelper-releases/releases/download/v1.1.1/RoHelper-1.1.1-portable.zip",
+  "sha256": "335cd0d2356fdff4357be090ec7c6f45520f2694d04306fd7eddb1b6f2e1a3ac",
+  "size": 3218283,
+  "notes": "Client discovery compatibility fix\n\n- Remove Windows Restart Manager log-ownership scans from client discovery.\n- Use launch-time process identities first; identify external clients through log/thread metadata with recycled-ID and ambiguity checks.\n- Keep existing MultiRoblox behavior, accounts, inventory, statistics and settings unchanged.\n\nThis removes a potential source of client interference. Roblox's reported 120-second timeout still requires live verification; test one additional account before bulk launching."
 }
